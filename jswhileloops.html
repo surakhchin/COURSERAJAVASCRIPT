@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <title>while loops</title>
+    <script>
+        var response, finished;
+        finished=false;
+        alert("Rossiter is a great name.");
+        while (!finished){
+            response=prompt("Do you agree?");
+            if (response.indexOf("y")==0)
+                finished=true; // if y is first postion, then its gonna keep asking
+        }
+        var response2, finished2;
+        finished2=false;
+        alert("whatever man.");
+        do {
+            response2= prompt("Yo u think whatever man??");
+            if (response2.indexOf("y")==0)
+                finished2=true;
+        } while (!finished)
+
+    </script>
+</head>
+<body>
+</body>
+</html>

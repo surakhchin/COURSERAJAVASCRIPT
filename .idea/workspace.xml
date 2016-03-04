@@ -68,7 +68,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="476">
               <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-              <folding />
+              <folding>
+                <marker date="1456976940942" expanded="true" signature="176:447" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,11 +85,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jsifstatements.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="jsifstatements.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jsifstatements.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25549132" vertical-offset="0" max-vertical-offset="865">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <state vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="493">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jswhileloops.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jswhileloops.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="544">
+              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jsLISTSORT.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jsLISTSORT.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.52369666" vertical-offset="0" max-vertical-offset="844">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -111,6 +133,10 @@
         <option value="$PROJECT_DIR$/jsagerestrictionexample.html" />
         <option value="$PROJECT_DIR$/jsbugmanagement.html" />
         <option value="$PROJECT_DIR$/jsifstatements.html" />
+        <option value="$PROJECT_DIR$/jsgloballocalvariables.html" />
+        <option value="$PROJECT_DIR$/jslogic.html" />
+        <option value="$PROJECT_DIR$/jswhileloops.html" />
+        <option value="$PROJECT_DIR$/jsLISTSORT.html" />
       </list>
     </option>
   </component>
@@ -433,7 +459,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="476">
           <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-          <folding />
+          <folding>
+            <marker date="1456976940942" expanded="true" signature="176:447" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -447,8 +475,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jsifstatements.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25549132" vertical-offset="0" max-vertical-offset="865">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="493">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jswhileloops.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="544">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsLISTSORT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52369666" vertical-offset="0" max-vertical-offset="844">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
