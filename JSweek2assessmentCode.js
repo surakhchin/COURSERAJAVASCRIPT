@@ -1,18 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head lang="en">
-    <title>Color Guessing Game</title>
-
-</head>
-<body onload="do_game()">
-    <script>
-
 var target;
 var guess_input_text;
 var guess_input;
 var finished = false;
-var guesses =0;
-var color = ["aqua", "black", "blue", "brown", "cyan", "green", "indigo", "lime"];
+var guesses = 0;
+var color = [];
 
 function do_game() {
     var random_number = Math.random() * (color.length - 1);
@@ -20,7 +11,7 @@ function do_game() {
     target = color[random_number_integer];
 
     while (!finished) {
-        guess_input_text = prompt("These are the colors: "+ color + "\n\nWhat color do you guess?");
+        guess_input_text = prompt("What color do you guess?");
         guess_input = guess_input_text;
         guesses +=1;
         finished = check_guess();
@@ -28,7 +19,7 @@ function do_game() {
 }
 
 function check_guess() {
-    if (!isInArray(guess_input, color)) {
+    if (color.indexOf(guess_input)) {
         alert("Not a color in array");
         return false;
     }
@@ -40,17 +31,8 @@ function check_guess() {
         alert("Color alphabetically lower");
         return false;
     }
-    myBody=document.getElementsByTagName("body")[0];
-    myBody.style.background=guess_input;
-    alert("Good job that is the color" + "\n\nIt took you " + guesses + " tries to get it right.");
+    alert("Good job that is the color");
     return true;
 }
-function isInArray(value, array) {
-    return array.indexOf(value) > -1;
-        }
 
-
-    </script>
-
-</body>
-</html>
+do_game();
