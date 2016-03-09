@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script> //using for loop-of with arrays (to give each item?)
+             // apparently for-of loops don't work...
+        var continents=["Australia", "Africa", "Antarctica", "Eurasia", "America"];
+        var response, count= 0;
+        for (var continent in continents) {
+            if (continents.hasOwnProperty(continent)) {
+                response = confirm("Have you been to " + continents[continent] + "?");
+                if (response) count++;
+            }
+        }
+    alert("You have been to " + count + " continents!");
+    </script>
+</head>
+<body>
+</body>
+</html>

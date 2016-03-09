@@ -25,8 +25,8 @@
             <file leaf-file-name="JSGuessingGame.js" pinned="false" current="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/JSGuessingGame.js">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state vertical-scroll-proportion="1.6053269" vertical-offset="0" max-vertical-offset="833">
-                    <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+                  <state vertical-scroll-proportion="1.6464891" vertical-offset="0" max-vertical-offset="833">
+                    <caret line="40" column="73" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="73" />
                     <folding />
                   </state>
                 </provider>
@@ -43,21 +43,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Course-1-Week-2-Assessment.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Course-1-Week-2-Assessment.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Course-1-Week-2-Assessment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.7705383" vertical-offset="408" max-vertical-offset="1037">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state vertical-scroll-proportion="-10.269231" vertical-offset="124" max-vertical-offset="1037">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JSweek2assessmentCode.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSweek2assessmentCode.js">
+      <file leaf-file-name="JSForLoopEx1.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSForLoopEx1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
-              <caret line="3" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="10" />
+            <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="374">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSForLoopInEx1.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSForLoopInEx1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="391">
+              <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSForOfLoopEx1.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JSForOfLoopEx1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.34492755" vertical-offset="0" max-vertical-offset="408">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSForLoopInEx2.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSForLoopInEx2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="357">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -91,6 +121,11 @@
         <option value="$PROJECT_DIR$/JSFuncReturnExample.html" />
         <option value="$PROJECT_DIR$/JSweek2assessmentCode.js" />
         <option value="$PROJECT_DIR$/Course-1-Week-2-Assessment.html" />
+        <option value="$PROJECT_DIR$/JSForLoopEx1.html" />
+        <option value="$PROJECT_DIR$/JSForLoopEx2.html" />
+        <option value="$PROJECT_DIR$/JSForLoopInEx1.html" />
+        <option value="$PROJECT_DIR$/JSForLoopInEx2.html" />
+        <option value="$PROJECT_DIR$/JSForOfLoopEx1.html" />
       </list>
     </option>
   </component>
@@ -161,6 +196,9 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Serge\Desktop\PORFTOLIO\COURSERAJAVASCRIPT" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Serge\Desktop\PORFTOLIO\COURSERAJAVASCRIPT" />
     </key>
@@ -568,26 +606,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JSweek2assessmentCode.js">
+    <entry file="file://$PROJECT_DIR$/JSGuessingGame.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
-          <caret line="3" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="10" />
+        <state vertical-scroll-proportion="1.6464891" vertical-offset="0" max-vertical-offset="833">
+          <caret line="40" column="73" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="73" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JSGuessingGame.js">
+    <entry file="file://$PROJECT_DIR$/JSweek2assessmentCode.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.6053269" vertical-offset="0" max-vertical-offset="833">
-          <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.26020408" vertical-offset="0" max-vertical-offset="731">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Course-1-Week-2-Assessment.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7705383" vertical-offset="408" max-vertical-offset="1037">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state vertical-scroll-proportion="-10.269231" vertical-offset="124" max-vertical-offset="1037">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSForLoopEx1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="374">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSForLoopInEx2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="357">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSForLoopInEx1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="391">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSForOfLoopEx1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34492755" vertical-offset="0" max-vertical-offset="408">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           <folding />
         </state>
       </provider>
